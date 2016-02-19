@@ -2,7 +2,6 @@
 % Florida Insitute of Technology
 % Coleege of Engineering
 % Electrical and Computer Engineering Department
-% ECE 5258   : Pattern Recognition
 % Doc Ref    : K -Nearest Neigbor Classifier Script (knn_classify.m)
 %  (c)  %Fall 2015 , Ayokunle Ade-Aina 
 %=========================================================================%
