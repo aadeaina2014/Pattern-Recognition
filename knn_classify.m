@@ -3,10 +3,8 @@
 % Coleege of Engineering
 % Electrical and Computer Engineering Department
 % ECE 5258   : Pattern Recognition
-% Instructor : Dr. Georgios Anagnostopulous
-% Semester   : Fall 2015
 % Doc Ref    : K -Nearest Neigbor Classifier Script (knn_classify.m)
-%  (c) Ayokunle Ade-Aina 
+%  (c)  %Fall 2015 , Ayokunle Ade-Aina 
 %=========================================================================%
 
 %---------------------------------INPUT-----------------------------------%
