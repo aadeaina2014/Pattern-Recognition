@@ -2,11 +2,9 @@
 % Florida Insitute of Technology
 % Coleege of Engineering
 % Electrical and Computer Engineering Department
-% ECE 5258   : Pattern Recognition
-% Instructor : Dr. Georgios Anagnostopulous
-% Semester   : Fall 2015
-% Doc ref    : main application driver script for MP1 task3 (Task1.m)
-%  (c) Ayokunle Ade-Aina 
+% Doc ref    : main application driver script for Noisy Circle in Square
+% Toy problem
+%  (c) fall 2015, Ayokunle Ade-Aina 
 %=========================================================================%
 
 clc; clear; close all;
