@@ -2,11 +2,8 @@
 % Florida Institute of Technology
 % College of Engineering
 % Electrical and Computer Engineering Department
-% ECE 5258   : Pattern Recognition
-% Instructor : Dr. Georgios Anagnostopulous
-% Semester   : Fall 2015 (September 2015)
-% Doc Ref    : main appplication driver for  MP I task2 script (main.m)
-%  (c) Ayokunle Ade-Aina 
+% Doc Ref    : main appplication driver for  knn_clasify function(main.m)
+%  (c)2015  Ayokunle Ade-Aina 
 %=========================================================================%
 
 clc; clear; close all;
@@ -30,8 +27,7 @@ sample = generateSamples(100, 0.1);
 T = [10,30,50,75,100];
 
 for i = 1: length(T)
-    % ensure that generated data does not exceed 100 samples to avoid
-    % runtime errors
+    % ensure that generated data does not exceed 100 samples to avoid  errors
     sample = sample(1:100,:);
     
     % randomly permute in order to index into 
@@ -64,9 +60,6 @@ for i = 1: length(T)
     XX = reshape(XX,100,100);
     YY = reshape(YY,100,100);
     ZZ = reshape(Ypred,100,100);
-    
-    
-    
     
     figure
     
