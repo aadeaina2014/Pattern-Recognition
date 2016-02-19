@@ -1,6 +1,6 @@
 %=========================================================================%
 % Florida Insitute of Technology
-% Coleege of Engineering
+% College of Engineering
 % Electrical and Computer Engineering Department
 % Doc ref    : main application driver script for Noisy Circle in Square
 % Toy problem
